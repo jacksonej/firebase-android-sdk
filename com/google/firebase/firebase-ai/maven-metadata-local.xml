@@ -3,14 +3,15 @@
   <groupId>com.google.firebase</groupId>
   <artifactId>firebase-ai</artifactId>
   <versioning>
-    <latest>17.11.1-LOCAL</latest>
-    <release>17.11.1-LOCAL</release>
+    <latest>17.11.2-LOCAL</latest>
+    <release>17.11.2-LOCAL</release>
     <versions>
       <version>17.11.0</version>
       <version>17.11.0-LOCAL-SNAPSHOT</version>
       <version>17.99.0-LOCAL</version>
       <version>17.11.1-LOCAL</version>
+      <version>17.11.2-LOCAL</version>
     </versions>
-    <lastUpdated>20260423103228</lastUpdated>
+    <lastUpdated>20260424052841</lastUpdated>
   </versioning>
 </metadata>
